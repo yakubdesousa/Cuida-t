@@ -8,6 +8,12 @@ body {
 	line-height: 1.5em;
 }
 
+img{
+	margin: auto;
+	padding: auto;
+	width: 100%;
+}
+
 h1 {
 	font-size: 5em;
 	line-height: 1.5em;
@@ -19,6 +25,16 @@ h1 {
 
 p {
 	margin: 0 0 1.5em 0;
+}
+
+
+.content{
+	text-decoration: none;
+
+}
+
+.content ul{
+	text-decoration: none;
 }
 
 
@@ -75,8 +91,7 @@ p {
 
 ul, ol{
 	list-style: none;
-	background-color:#c978b1;
-	font-size: 1.5em;
+	font-size: 1.2em;
 
 
 }

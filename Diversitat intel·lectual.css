@@ -21,6 +21,27 @@ p {
 	margin: 0 0 1.5em 0;
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.foto2{
+	display: flex;
+	align-content: center;
+	align-items: center;
+	max-width: 100%;
+	height: auto;
+	padding-left: 47px;
+}
+
+.foto3{
+	display: flex;
+	align-content: center;
+	align-items: center;
+	max-width: 100%;
+	height: auto;
+}
 
 
 .site-name img {
